@@ -1,0 +1,61 @@
+
+<!DOCTYPE html>
+<html lang="pt"
+<head>
+    <meta charset="UTF-8">
+    <title>GRADE NFB</title>
+
+<link rel="shortcut icon" href="file:///W:\Publico\William M/GERAL/grade nfb/favicon.ico"/>
+
+
+    <IMG src="file:///W:\Publico\William M/GERAL/grade nfb/tecno.png" style="left: 10px; top: 25px; position: absolute" width="150" height="57" align=”middle”><div>
+    <style>
+          body
+         {
+          background-image:url("file:///W:/Publico/William%20M/GERAL/grade%20nfb/fundogif.gif");
+          background-repeat: no-repeat;
+          background-size: cover;
+          background-attachment: fixed;
+         }
+
+
+    </style>
+</div>
+</head>
+
+    <div align="center"
+
+<p>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+
+
+</p>
+
+
+
+
+ <font face="Segoe UI"<font size="17px" color= #0B3F6B><b>GRADE NFB</b></font>
+<p>
+<a href="file:///W:\Publico\William M/GERAL/grade nfb/IT XX.XXX PRATELEIRA GRADE NFB.pdf" target="_blank"><button style="width: 300px; height: 50px;background: #EC661A;margin-top: 15px; border-radius: 6px; padding: 15px; cursor: pointer; color: #fff; border: none; font-size: 18px;"><b>IT XX.XXX</b></button></a>
+<p>
+<a href='file:///W:\Publico\William M/GERAL/grade nfb/Alocação grade.mp4' target="_blank"><button style="width: 300px; height: 50px;background: #EC661A;margin-top: 15px; border-radius: 6px; padding: 15px; cursor: pointer; color: #fff; border: none; font-size: 18px;"><b>Vídeo - Método de Alocação</b></button></a>
+<p>
+<a href="file:///W:\Publico\William M/GERAL/grade nfb/alocaçao.png" target="_blank"><button style="width: 300px; height: 50px; background: #EC661A;margin-top: 15px; border-radius: 6px; padding: 15px; cursor: pointer; color: #fff; border: none; font-size: 18px;"><b>Instruções para Alocação</b></button></a>
+<p>
+<a href="file:///W:\Publico\William M/GERAL/grade nfb/GRADE NFB2.gif" target="_blank"><button style="width: 300px; height: 50px;background: #EC661A;margin-top: 15px; border-radius: 6px; padding: 15px; cursor: pointer; color: #fff; border: none; font-size: 18px;"><b>Informações - Grade NFB</b></button></a>
+<p>
+<a href="file:///C:/Users/willian.monteiro/AppData/Roaming/JetBrains/PyCharmCE2022.2/scratches/MAPA.html" target="_blank"><button style="width: 300px; height: 50px;background: #EC661A;margin-top: 15px; border-radius: 6px; padding: 15px; cursor: pointer; color: #fff; border: none; font-size: 18px;"><b>Mapa - Prateleiras</b></button></a><style>
+        button:hover {
+    transform: scale(1.1);
+    transition: all 0.4s;
+  }
+
+    </style>
+</p>
+
+</body>
